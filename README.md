@@ -21,6 +21,7 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
+
 ## Synopsis
 The requirement was to design a program that could manage students results for several subjects.
  There are 12 students and three subject, Java Programming, Database Systems and Systems Analysis. Required 
